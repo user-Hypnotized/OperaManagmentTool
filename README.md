@@ -1,4 +1,4 @@
-Here's a professional yet approachable README with emojis:
+Sure! Here's the updated README with the image embedded into the description:
 
 ---
 
@@ -42,7 +42,8 @@ Welcome to the **Opera Management Tool**, a streamlined utility designed to simp
 - **User-Friendly Interface**: Clear, organized layout for quick navigation.
 
 ## Screenshot 📸
-https://snipboard.io/tCsQGf.jpg
+
+![Opera Management Tool](https://snipboard.io/tCsQGf.jpg)  
 *The tool’s clean and intuitive design ensures a smooth experience.*
 
 ## Contributing 🤝
