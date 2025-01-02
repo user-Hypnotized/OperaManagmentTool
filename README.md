@@ -42,8 +42,7 @@ Welcome to the **Opera Management Tool**, a streamlined utility designed to simp
 - **User-Friendly Interface**: Clear, organized layout for quick navigation.
 
 ## Screenshot 📸
-
-![Opera Management Tool](https://your-screenshot-link-here)  
+https://snipboard.io/tCsQGf.jpg
 *The tool’s clean and intuitive design ensures a smooth experience.*
 
 ## Contributing 🤝
