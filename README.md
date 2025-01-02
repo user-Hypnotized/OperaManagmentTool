@@ -48,7 +48,7 @@ Welcome to the **Opera Management Tool**, a streamlined utility designed to simp
 
 ## Contributing 🤝
 
-We welcome contributions! If you encounter issues or have ideas for improvement, feel free to:
+I welcome contributions! If you encounter issues or have ideas for improvement, feel free to:
 - Open an issue
 - Submit a pull request
 
@@ -60,4 +60,4 @@ This tool is intended to enhance browser management. While every effort has been
 
 ---
 
-We hope you find the Opera Management Tool helpful! Feedback and suggestions are always welcome. 😊
+I hope you find the Opera Management Tool helpful! Feedback and suggestions are always welcome. 😊
